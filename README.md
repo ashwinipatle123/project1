@@ -1,2 +1,2 @@
-its a amazon clone shoppinh website 
+its a amazon clone shopping website 
 HTML , CSS , JS
